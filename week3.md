@@ -1,5 +1,6 @@
 # Week 3: Line and Scatter Plots — Recap and Assignment
 
+[Juypter Notebook: Week 3 Tutorial and Assignemnt](Week3_Assignment_fall25.ipynb)
 ## In-Class Recap
 This week we explored two essential plotting techniques in Matplotlib:  
 
