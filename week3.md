@@ -102,16 +102,16 @@ By the end of this week, you should be able to:
 
 ## Assignments and Resources
 
-- [Week 3 Assignment: Line and Scatter Plots](Week3_Assignment.md)  
+- [Week 3 Assignment: Line and Scatter Plots](Week3_Assignment_fall25.ipynb.md)  
   This assignment will challenge you to create various line and scatter plots, customize their appearance, and visualize mathematical functions using Matplotlib.
 
 ### Remark
 
-1. [Line Plots Tutorial](Week3_line_plots.ipynb)  
+1. [Line Plots Tutorial](Week3_Assignment_fall25.ipynb.ipynb)  
    - Learn to visualize and customize line plots  
    - Explore various line styles, colors, and markers  
 
-2. [Scatter Plot Tutorial](Week3_Scatter_Plot.ipynb)  
+2. [Scatter Plot Tutorial](Week3_Assignment_fall25.ipynb.ipynb)  
    - Learn to visualize data points with scatter plots  
 
 ---
