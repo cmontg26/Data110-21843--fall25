@@ -24,8 +24,6 @@ The **Week 3 Assignment** builds directly on these skills. You will:
 
 Use the assignment to **solidify your plotting skills** before moving on to more advanced visualization methods.  
 
-[Jump to the Assignment Section](#part-3-assignment)  
+[Jump to Tutorial and Assignment Section](Week3_Assignment_fall25.ipynb)  
 
-If you want to review first:  
-- [Go to the Line Plots Lab](#part-1-line-plots)  
-- [Go to the Scatter Plots Lab](#part-2-scatter-plots)  
+
