@@ -1,6 +1,6 @@
-# Week 5 Assignment (Student Version) — Titanic Distributions with a Light Week-6 Boost
+# Week 5 and 6 Assignment  — Titanic Distributions 
 
-**Focus.** Keep Week 5’s emphasis on **histograms + KDEs** for interpretation. Add a **small, targeted** Week-6 set: **boxplot** (multiple groups), **violin** (age by sex), and a **strip/swarm** overlay. _No ridgeline._
+ Week 5’s emphasis on **histograms + KDEs** for interpretation. Add a **small, targeted** Week-6 set: **boxplot** (multiple groups), **violin** (age by sex), and a **strip/swarm** overlay. _No ridgeline._
 
 ---
 
@@ -12,8 +12,7 @@
 
 ## 1) Understand the Data
 **Task 1 — Dataset overview (5–6 sentences).**  
-Identify the variables you will use (`survived, pclass, sex, age, fare, embark_town, sibsp, parch`).  
-Note missingness (especially `age`), and briefly explain why these columns matter for your analysis.
+Identify the variables you will use (`survived, pclass, sex, age, fare, embark_town, sibsp, parch`). briefly explain why these columns matter for your analysis.
 
 ---
 
@@ -26,11 +25,10 @@ Compare `fare` distributions for `survived = 0` vs `1` (e.g., overlaid KDEs). Fo
 
 ---
 
-## 3) Light Week-6 Add-Ons (exactly three plots)
-> Keep it **tight**: each figure gets **2–4 sentences** of interpretation.
+## 3)  Week-6 Add-Ons (exactly three plots)
 
 **Task 4 — Boxplot across multiple groups (fare).**  
-Make a boxplot of `fare` grouped by `pclass`, with an additional split by `sex` (hue or faceting). Because `fare` is skewed, choose a scale that reveals medians, IQRs, and outliers clearly. Interpret what differs across groups.
+Make a boxplot of `fare` grouped by `pclass`, with an additional split by `sex`. Interpret what differs across groups.
 
 **Task 5 — Violin (age by sex).**  
 Create a violin plot of `age` by `sex`. State any meaningful differences and what they suggest.
