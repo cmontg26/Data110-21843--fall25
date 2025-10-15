@@ -1,4 +1,6 @@
-# Palmer Penguins Dataset in Python (Seaborn)
+# Part One: [Book Chapter 4: Color Scales](https://clauswilke.com/dataviz/color-basics.html)
+
+# Part two: Palmer Penguins Dataset in Python (Seaborn)
 
 The **Palmer Penguins dataset** is a dataset collected by Dr. Kristen Gorman at the Palmer Station, Antarctica. It contains data on three species of penguins: **Adelie, Chinstrap, and Gentoo**, from three islands in the Palmer Archipelago.
 
