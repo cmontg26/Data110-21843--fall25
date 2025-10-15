@@ -48,3 +48,5 @@
 
 - **One-liner for your slide:**
   - “344 penguins, 3 species, 3 islands (2007–2009) — clean units (mm, g), a few NAs, and crystal-clear species patterns. Perfect for demoing tidy analysis and visualization.”
+ 
+  [Slides: The untold Story of Palmerpenguins](https://apreshill.github.io/palmerpenguins-useR-2022/#/title-slide)
