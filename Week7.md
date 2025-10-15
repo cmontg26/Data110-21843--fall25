@@ -43,3 +43,9 @@ The **Palmer Penguins dataset** is a dataset collected by Dr. Kristen Gorman at 
 ```python
 sns.pairplot(penguins, hue="species", diag_kind="kde")
 plt.show()
+
+
+```
+
+[Week 7 python](Week7.ipynb)
+
