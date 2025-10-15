@@ -14,17 +14,9 @@ The **Palmer Penguins dataset** is a dataset collected by Dr. Kristen Gorman at 
 - **sex**: Sex of the penguin (Male, Female)
 - **year**: Year of observation
 
-##  Loading the Penguins Dataset in Python (Seaborn)
-```python
-import seaborn as sns
-import pandas as pd
+[The untold story of palmerpenguins 🐧](https://apreshill.github.io/palmerpenguins-useR-2022/#/title-slide)
+-------------------
 
-# Load the dataset
-penguins = sns.load_dataset("penguins")
-
-# Display the first few rows
-print(penguins.head())
-```
 
 
 
